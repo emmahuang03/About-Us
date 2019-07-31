@@ -1,0 +1,44 @@
+* {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  width: 450px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+}
+
+.lasya {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.emma {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.sydney {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.claire {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
