@@ -8,6 +8,18 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  color: #2789B3;
+}
+
 p {
   width: 450px;
 }
